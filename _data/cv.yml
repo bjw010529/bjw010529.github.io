@@ -28,18 +28,14 @@
       institution: The University of Hong Kong
       year: 2023.9-present
       description:
-        - Description 1.
-        - Advisor: <a href="https://yue-xie.github.io/">Dr. Yue Xie</a>
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Working on dimension-insensitive methods for nonconvex stochastic optimization.
+        - Advisor: <a href="https://yue-xie.github.io">Dr. Yue Xie</a>
     - title: C++ Development Engineer Intern
       institution: ZJUXitou Brainmachine Intelligence Research Center
       year: 2021.7 - 2021.9
       description:
-        - Description 1.
-        - Description 2.
+        - Participating in the development of BrainComputer Fusion Computing Platform.
+        - Responsible for the processing of data provided for brainmachine, coding of C++ applications and numerical algorithms.
 
 
 # - title: Open Source Projects
@@ -63,16 +59,25 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Convex and Nonconvex Optimization
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Computational complexities for first-order and zeroth-order algorithms.
+        - Primal-dual optimization algorithms.
+    - title: Stochastic Optimization
+    - title: Large Scale Optimization
       items:
-        - Description 1.
-        - Description 2.
+        - Analysis on large scale problems.
+        - Dependence of computational complexities on dimension.
+    - title: Reinforcement Learning
+      items:
+        - Theories for reinforcement learning algorithms.
+        - Optimization problems arising in reinforcement learning.
+    - title: Quantum Optimization
+      items:
+        - First-order and zeroth-order algorithms in quantum computing.
+        - Quantum-based methods for optimization.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> weight lifting, running, games, board games
