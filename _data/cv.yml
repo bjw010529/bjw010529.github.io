@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jiawen Bi
     - name: Date of Birth
-      value: 14th March 1879
+      value: 29th May 2001
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
@@ -15,15 +15,10 @@
       institution: University of Minnesota Twin Cities
       year: 2024-current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - At the Department of Industrial and Systems Engineering (ISyE)
+    - title: B.S.
+      institution: Zhejiang University, Department of Mathematics
+      year: 2019.9-2023.6
       description:
         - Description 1.
         - Description 2.
