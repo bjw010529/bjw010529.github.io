@@ -29,7 +29,7 @@
       year: 2023.9-present
       description:
         - Working on dimension-insensitive methods for nonconvex stochastic optimization.
-        - 'Advisor: <a href="https://yue-xie.github.io">[Dr. Yue Xie]</a>'
+        - <u>Advisor:</u> <a href="https://yue-xie.github.io">[Dr. Yue Xie]</a>
     - title: C++ Development Engineer Intern
       institution: ZJUXitou Brainmachine Intelligence Research Center
       year: 2021.7 - 2021.9
@@ -76,6 +76,12 @@
       items:
         - First-order and zeroth-order algorithms in quantum computing.
         - Quantum-based methods for optimization.
+
+- title: Professional Skills
+  type: list
+  contents:
+    - <u>Coding:</u> Python, C/C++, MATLAB
+    - <u>Software & Tools:</u> LaTeX, Linux, Pytorch
 
 - title: Other Interests
   type: list
