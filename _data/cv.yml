@@ -57,9 +57,9 @@
 #         - Max Planck Medal
 
 - title: Academic Interests
+  My research interests are mainly optimization problems arising in machine learning, operation research and other applications. Details are as follows.
   type: nested_list
   contents:
-  My research interests are mainly optimization problems arising in machine learning, operation research and other applications. Details are as follows.
     - title: Bilevel Optimization
     - title: Minimax Optimization
     - title: First-order and Zeroth-order Methods in Optimization
