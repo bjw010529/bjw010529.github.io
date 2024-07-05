@@ -26,7 +26,7 @@
   contents:
     - title: Research Assistant II
       institution: The University of Hong Kong
-      year: 2023.9-present
+      year: 2023.9-2024.6
       description:
         - Working on dimension-insensitive methods for nonconvex stochastic optimization.
         - <u>Advisor:</u> <a href="https://yue-xie.github.io">[Dr. Yue Xie]</a>
@@ -59,23 +59,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Convex and Nonconvex Optimization
-      items: 
-        - Computational complexities for first-order and zeroth-order algorithms.
-        - Primal-dual optimization algorithms.
+  My research interests are mainly optimization problems arising in machine learning, operation research and other applications. Details are as follows":"
+    - title: Bilevel Optimization
+    - title: Minimax Optimization
+    - title: First-order and Zeroth-order Methods in Optimization
     - title: Stochastic Optimization
-    - title: Large Scale Optimization
-      items:
-        - Analysis on large scale problems.
-        - Dependence of computational complexities on dimension.
     - title: Reinforcement Learning
       items:
         - Theories for reinforcement learning algorithms.
         - Optimization problems arising in reinforcement learning.
     - title: Quantum Optimization
-      items:
-        - First-order and zeroth-order algorithms in quantum computing.
-        - Quantum-based methods for optimization.
 
 - title: Professional Skills
   type: list
@@ -86,4 +79,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> weight lifting, running, games, board games
+    - <u>Hobbies:</u> weight lifting, running, reading, games, board games
