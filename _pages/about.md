@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: <a href='#'>Affiliations</a>. Address. <a href='mailto:bjw010529@gmail.com'>bjw010529@gmail.com, Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. <a href='mailto:bjw010529@gmail.com'>bjw010529@gmail.com</a>, Moto. Etc.
 
 profile:
   align: right
